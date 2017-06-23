@@ -1,0 +1,57 @@
+#cup_body {
+  width: 300px;
+  height: 200px;
+  border-radius: 0 0 120px 120px;
+  top: 50%;
+  position: absolute;
+  left: 50%;
+  z-index: 1;
+  margin-top: -100px;
+  margin-left: -150px;
+  background-color: #fff;
+  box-shadow: #ffffff 0 0 10px inset,#CFCFCF 5px 5px 20px,#E0E0E0 0 0 40px;
+  background-image: radial-gradient(farthest-corner circle at 60% 50%, #ffffff 10%, #DFDFDF 75%, #eeeeee 90%); }
+
+#cup_header {
+  width: 300px;
+  height: 55px;
+  border-radius: 50%;
+  top: 50%;
+  position: absolute;
+  left: 50%;
+  z-index: 2;
+  border: 1px solid #eeeeee;
+  margin-left: -150px;
+  margin-top: -125px;
+  background-color: #ffffff;
+  box-shadow: #ffffff 0 0 10px inset,#CFCFCF 5px 5px 20px,#E0E0E0 0 0 40px;
+  background-image: radial-gradient(farthest-corner ellipse at 40% 40%, #ffffff 20%, #DFDFDF 70%, #eeeeee 80%); }
+
+#cup_footer {
+  width: 350px;
+  height: 90px;
+  border-radius: 50%;
+  top: 50%;
+  position: absolute;
+  left: 50%;
+  margin-left: -175px;
+  margin-top: 40px;
+  background-color: #fff;
+  border: 1px solid #D8D8D8;
+  background-image: radial-gradient(#979797 30%, #D3D3D3 45%, white 65%);
+  box-shadow: #E4E4E4 0 0 40px inset,#CDCDCD 0 15px 25px,#E0E0E0 0 0 40px; }
+
+#cup_ear {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  top: 50%;
+  border: 1px solid #eee;
+  position: absolute;
+  left: 50%;
+  margin-left: 125px;
+  margin-top: -75px;
+  background-image: radial-gradient(#fff 25%, #E0E0E0 35%, #eee 45%, #fff 57%);
+  box-shadow: #E4E4E4 0 0 5px inset,#DFDFDF 5px 10px 20px,#E0E0E0 0 0 40px; }
+
+/*# sourceMappingURL=cup.css.map */
